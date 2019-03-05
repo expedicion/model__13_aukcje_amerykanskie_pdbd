@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="5EEA3396-A1BB-3416-F280-B566FF411D07" mainViewID="B4B38688-2082-C6F9-F745-34E2475CA2E9">
+<createdBy>Dell</createdBy>
+<createdTime>2019-03-05 22:13:50 UTC</createdTime>
+<ownerDesignName>Aukcje_amerykanskie</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+</relationalModel>

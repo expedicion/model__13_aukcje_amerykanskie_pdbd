@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="27FC0562-05BE-92AE-5A8D-7FD2ED8926EF" mainViewID="AF00BC99-306B-8BA0-C350-241E5D7CC23C">
+<createdBy>Dell</createdBy>
+<createdTime>2019-03-05 22:13:50 UTC</createdTime>
+<ownerDesignName>Aukcje_amerykanskie</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>
